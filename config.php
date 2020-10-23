@@ -3,9 +3,9 @@ function config()
 {
     return array(
         //以下功能: 开启填写true,关闭改为null
-		"API_KEY"  => "1193755ae99702b0",  //api88.net平台的KEY密钥，请求接口所需，申请地址 api88.net/reg
+		"API_KEY"  => "",  //api88.net平台的KEY密钥，请求接口所需，申请地址 api88.net/reg
 		"host"     => "http://127.0.0.1",  //HTTPAPI接口地址，本地默认即可
-		"Robot"    => "206006691",  //机器人QQ
+		"Robot"    => "",  //机器人QQ
 		"group_guid" => array( //开启机器人所有功能的群，一行一个
                       "34544417",
 					  ),
