@@ -1,0 +1,3 @@
+//rand_img_url 1
+//rand_img_url 2
+随机美图 图片地址URL，一行一个
